@@ -1,1 +1,1 @@
-# Zomato-Clone in master branch
+# Zomato-Clone is in master branch
